@@ -4,7 +4,7 @@ let data=[
     city:"Newyork",
     des:"Fronend developer",
     skills:["Fronend","ui Development","git","github","canva"],
-    online:true,
+    online:false,
     profile:"1-change1.jpg"
   
   },
@@ -13,7 +13,7 @@ let data=[
     city:"Canada",
     des:"Backend developer",
     skills:["java","PHP","Python","Ruby","SQL"],
-    online:false,
+    online:true,
     profile:"tom.jpg"
   
   },
@@ -22,7 +22,7 @@ let data=[
     city:"South Africa",
     des:"Cyber Security",
     skills:["Python","Java","C++","Ruby","PowerShell","SOL","Rust","Bash"],
-    online:true,
+    online:false,
     profile:"edna.jpg"
   
   }
